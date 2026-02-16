@@ -1,0 +1,61 @@
+{
+  "response": {
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "response_Body": [
+        {
+          "id": 1,
+          "name": "METRO",
+          "delivery_info": {
+            "type": "time_window",
+            "text": "Ближайшая доставка сегодня",
+            "from": "21:00",
+            "to": "23:00"
+          },
+          "logo_url": "https://cdn.petrushkazelenaja.com/partners/metro.png",
+          "external_url": "https://www.metro-cc.ru"
+        },
+        {
+          "id": 2,
+          "name": "Ашан",
+          "delivery_info": {
+            "type": "time_window",
+            "text": "Ближайшая доставка сегодня",
+            "from": "18:00",
+            "to": "20:00"
+          },
+          "logo_url": "https://cdn.petrushkazelenaja.com/partners/auchan.png",
+          "external_url": "https://www.auchan.ru"
+        },
+        {
+          "id": 3,
+          "name": "ВкусВилл",
+          "delivery_info": {
+            "type": "fast_delivery",
+            "text": "Быстрая доставка",
+            "min_minutes": 20,
+            "max_minutes": 60
+          },
+          "logo_url": "https://cdn.petrushkazelenaja.com/partners/vkusvill.png",
+          "external_url": "https://vkusvill.ru"
+        },
+        {
+          "id": 4,
+          "name": "ВИКТОРИЯ",
+          "delivery_info": {
+            "type": "time_window",
+            "text": "Ближайшая доставка сегодня",
+            "from": "17:00",
+            "to": "19:00"
+          },
+          "logo_url": "https://cdn.petrushkazelenaja.com/partners/victoria.png",
+          "external_url": "https://victoria-group.ru"
+        }
+      ]
+    }
+  }
+}
