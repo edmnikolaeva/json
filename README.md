@@ -9,7 +9,7 @@
 
 ---
 
-### CONTEXT
+### CONTEXT:
 - Application Online Store – [screen](https://github.com/edmnikolaeva/json/blob/main/screen.png) displaying store partners  
 - The examples illustrate how API calls and responses are structured for this screen
 
