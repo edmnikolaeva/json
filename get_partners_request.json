@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "https://api.petrushkazelenaja.com/v1/partners",
+    "headers": {
+      "Accept": "application/json",
+      "User-Agent": "PetrushkaMobileApp/1.1.0"
+    }
+  }
+}
