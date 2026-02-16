@@ -4,8 +4,10 @@
 - Including request structure, response formatting, and JSON data organization
 
 ---
-- 👉 [View HTTP request](https://github.com/edmnikolaeva/json/blob/main/get_partners_request.json)
-- 👉 [View HTTP response](https://github.com/edmnikolaeva/json/blob/main/get_partners_response.json)
+
+### ARTIFACTS
+- 👉 [HTTP request](https://github.com/edmnikolaeva/json/blob/main/get_partners_request.json)
+- 👉 [HTTP response](https://github.com/edmnikolaeva/json/blob/main/get_partners_response.json)
 
 ---
 
