@@ -68,7 +68,7 @@ API design demonstrates how backend services interact with the frontend.
 
 ---
 
-### 🔗 Related Artifacts
+### 🔎 Related Work
 
 - 👉 [REST](https://github.com/edmnikolaeva/rest)
 - 👉 [XML & SOAP](https://github.com/edmnikolaeva/xml)
